@@ -5,7 +5,9 @@
 
 ```bash
 pip install torch numpy transformers
+
 python 3.py --mode train
+
 python 3.py --mode chat
 
 
