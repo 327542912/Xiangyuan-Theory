@@ -1,3 +1,5 @@
+这是一个基于象元理论的中文语言模型训练框架，用挂谷几何约束注意力机制，用知识晶体图实现长期记忆
+
 # Xiangyuan-Theory
 
 **A Geometric Theory of Consciousness and AGI based on Information Geometry**
