@@ -1,4 +1,14 @@
 这是一个基于象元理论的中文语言模型训练框架，用挂谷几何约束注意力机制，用知识晶体图实现长期记忆
+## 🚀 快速开始
+
+### 安装依赖
+
+```bash
+pip install torch numpy transformers
+python 3.py --mode train
+python 3.py --mode chat
+
+
 
 # Xiangyuan-Theory
 
